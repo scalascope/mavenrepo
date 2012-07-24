@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.mixpanel</groupId>
+  <artifactId>mixpanel-java</artifactId>
+  <version>0.1</version>
+  <versioning>
+    <versions>
+      <version>0.1</version>
+    </versions>
+    <lastUpdated>20120724092902</lastUpdated>
+  </versioning>
+</metadata>
